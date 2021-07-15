@@ -1,0 +1,6 @@
+C:\Users\emlin\source\repos\ValueEncryptionExample\ValueEncryptionExample\bin\Debug\ValueEncryptionExample.exe.config
+C:\Users\emlin\source\repos\ValueEncryptionExample\ValueEncryptionExample\bin\Debug\ValueEncryptionExample.exe
+C:\Users\emlin\source\repos\ValueEncryptionExample\ValueEncryptionExample\bin\Debug\ValueEncryptionExample.pdb
+C:\Users\emlin\source\repos\ValueEncryptionExample\ValueEncryptionExample\obj\Debug\ValueEncryptionExample.csproj.CoreCompileInputs.cache
+C:\Users\emlin\source\repos\ValueEncryptionExample\ValueEncryptionExample\obj\Debug\ValueEncryptionExample.exe
+C:\Users\emlin\source\repos\ValueEncryptionExample\ValueEncryptionExample\obj\Debug\ValueEncryptionExample.pdb
